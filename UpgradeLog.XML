@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="New Warlord">
+</Property><Property Name="Solution File" Value="C:\Coding Stuff\C# Projects\Newer Warlord\New Warlord\New Warlord.sln">
+</Property><Property Name="User Options File" Value="C:\Coding Stuff\C# Projects\Newer Warlord\New Warlord\New Warlord.suo">
+</Property><Property Name="Date" Value="21 November 2007">
+</Property><Property Name="Time" Value="01:58">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="New Warlord.sln" Description="File successfully backed up as C:\Coding Stuff\C# Projects\Newer Warlord\New Warlord\Backup\New Warlord.sln">
+</Event><Event ErrorLevel="0" Project="" Source="New Warlord.suo" Description="File successfully backed up as C:\Coding Stuff\C# Projects\Newer Warlord\New Warlord\Backup\New Warlord.suo">
+</Event><Event ErrorLevel="0" Project="New Warlord" Source="New Warlord\New Warlord.csproj" Description="Project file successfully backed up as C:\Coding Stuff\C# Projects\Newer Warlord\New Warlord\Backup\New Warlord\New Warlord.csproj">
+</Event><Event ErrorLevel="0" Project="New Warlord" Source="New Warlord\Class1.cs" Description="File successfully backed up as C:\Coding Stuff\C# Projects\Newer Warlord\New Warlord\Backup\New Warlord\Class1.cs">
+</Event><Event ErrorLevel="0" Project="New Warlord" Source="New Warlord\AStarNode Pathfinding\Node.cs" Description="File successfully backed up as C:\Coding Stuff\C# Projects\Newer Warlord\New Warlord\Backup\New Warlord\AStarNode Pathfinding\Node.cs">
+</Event><Event ErrorLevel="0" Project="New Warlord" Source="New Warlord\AStarNode Pathfinding\NodeComparer.cs" Description="File successfully backed up as C:\Coding Stuff\C# Projects\Newer Warlord\New Warlord\Backup\New Warlord\AStarNode Pathfinding\NodeComparer.cs">
+</Event><Event ErrorLevel="0" Project="New Warlord" Source="New Warlord\AStarNode Pathfinding\Pathfinder.cs" Description="File successfully backed up as C:\Coding Stuff\C# Projects\Newer Warlord\New Warlord\Backup\New Warlord\AStarNode Pathfinding\Pathfinder.cs">
+</Event><Event ErrorLevel="0" Project="New Warlord" Source="New Warlord\Class2.cs" Description="File successfully backed up as C:\Coding Stuff\C# Projects\Newer Warlord\New Warlord\Backup\New Warlord\Class2.cs">
+</Event><Event ErrorLevel="0" Project="New Warlord" Source="New Warlord\StaticValues.cs" Description="File successfully backed up as C:\Coding Stuff\C# Projects\Newer Warlord\New Warlord\Backup\New Warlord\StaticValues.cs">
+</Event><Event ErrorLevel="0" Project="New Warlord" Source="New Warlord\RC4_Etc.cs" Description="File successfully backed up as C:\Coding Stuff\C# Projects\Newer Warlord\New Warlord\Backup\New Warlord\RC4_Etc.cs">
+</Event><Event ErrorLevel="0" Project="New Warlord" Source="New Warlord\DateStuff.cs" Description="File successfully backed up as C:\Coding Stuff\C# Projects\Newer Warlord\New Warlord\Backup\New Warlord\DateStuff.cs">
+</Event><Event ErrorLevel="0" Project="New Warlord" Source="New Warlord\HabboUser.cs" Description="File successfully backed up as C:\Coding Stuff\C# Projects\Newer Warlord\New Warlord\Backup\New Warlord\HabboUser.cs">
+</Event><Event ErrorLevel="0" Project="New Warlord" Source="New Warlord\Managers.cs" Description="File successfully backed up as C:\Coding Stuff\C# Projects\Newer Warlord\New Warlord\Backup\New Warlord\Managers.cs">
+</Event><Event ErrorLevel="0" Project="New Warlord" Source="New Warlord\FrmMain.cs" Description="File successfully backed up as C:\Coding Stuff\C# Projects\Newer Warlord\New Warlord\Backup\New Warlord\FrmMain.cs">
+</Event><Event ErrorLevel="0" Project="New Warlord" Source="New Warlord\FrmMain.Designer.cs" Description="File successfully backed up as C:\Coding Stuff\C# Projects\Newer Warlord\New Warlord\Backup\New Warlord\FrmMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="New Warlord" Source="New Warlord\Program.cs" Description="File successfully backed up as C:\Coding Stuff\C# Projects\Newer Warlord\New Warlord\Backup\New Warlord\Program.cs">
+</Event><Event ErrorLevel="0" Project="New Warlord" Source="New Warlord\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Coding Stuff\C# Projects\Newer Warlord\New Warlord\Backup\New Warlord\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="New Warlord" Source="New Warlord\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Coding Stuff\C# Projects\Newer Warlord\New Warlord\Backup\New Warlord\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="New Warlord" Source="New Warlord\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Coding Stuff\C# Projects\Newer Warlord\New Warlord\Backup\New Warlord\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="New Warlord" Source="New Warlord\AStarNode Pathfinding\SortedCostNodeList.cs" Description="File successfully backed up as C:\Coding Stuff\C# Projects\Newer Warlord\New Warlord\Backup\New Warlord\AStarNode Pathfinding\SortedCostNodeList.cs">
+</Event><Event ErrorLevel="0" Project="New Warlord" Source="New Warlord\Properties\Settings.settings" Description="File successfully backed up as C:\Coding Stuff\C# Projects\Newer Warlord\New Warlord\Backup\New Warlord\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="New Warlord" Source="New Warlord\FrmMain.resx" Description="File successfully backed up as C:\Coding Stuff\C# Projects\Newer Warlord\New Warlord\Backup\New Warlord\FrmMain.resx">
+</Event><Event ErrorLevel="0" Project="New Warlord" Source="New Warlord\Properties\Resources.resx" Description="File successfully backed up as C:\Coding Stuff\C# Projects\Newer Warlord\New Warlord\Backup\New Warlord\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="New Warlord" Source="New Warlord\New Warlord.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="New Warlord" Source="New Warlord\New Warlord.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="New Warlord.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="New Warlord.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="New Warlord" Source="New Warlord\New Warlord.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

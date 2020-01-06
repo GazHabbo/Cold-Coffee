@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Warlord.FrmMain.resources
+obj\Debug\Warlord.Properties.Resources.resources
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Warlord.FrmMain.resources
+obj\Release\Warlord.Properties.Resources.resources
+obj\Debug\New Warlord.csproj.GenerateResource.Cache
+bin\Debug\New Warlord.exe
+bin\Debug\New Warlord.pdb
+obj\Debug\New Warlord.exe
+obj\Debug\New Warlord.pdb
+bin\Release\New Warlord.exe
+bin\Release\New Warlord.pdb
+obj\Release\New Warlord.csproj.GenerateResource.Cache
+obj\Release\New Warlord.exe
+obj\Release\New Warlord.pdb

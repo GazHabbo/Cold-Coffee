@@ -1,0 +1,10 @@
+D:\Programming\Project Cold Coffee\Source\New Warlord\New Warlord\obj\Release\New Warlord.exe
+D:\Programming\Project Cold Coffee\Source\New Warlord\New Warlord\obj\Release\New Warlord.pdb
+C:\Users\Jeax\Desktop\Coding Stuff\C# Projects\Newer Warlord\New Warlord\New Warlord\obj\Debug\New Warlord.exe
+C:\Users\Jeax\Desktop\Coding Stuff\C# Projects\Newer Warlord\New Warlord\New Warlord\obj\Debug\New Warlord.pdb
+C:\Users\Jeax\Desktop\Coding Stuff\C# Projects\Newer Warlord\New Warlord\New Warlord\bin\Debug\New Warlord.exe
+C:\Users\Jeax\Desktop\Coding Stuff\C# Projects\Newer Warlord\New Warlord\New Warlord\bin\Debug\New Warlord.pdb
+C:\Users\Jeax\Desktop\Coding Stuff\C# Projects\Newer Warlord\New Warlord\New Warlord\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jeax\Desktop\Coding Stuff\C# Projects\Newer Warlord\New Warlord\New Warlord\obj\Debug\Warlord.FrmMain.resources
+C:\Users\Jeax\Desktop\Coding Stuff\C# Projects\Newer Warlord\New Warlord\New Warlord\obj\Debug\Warlord.Properties.Resources.resources
+C:\Users\Jeax\Desktop\Coding Stuff\C# Projects\Newer Warlord\New Warlord\New Warlord\obj\Debug\New Warlord.csproj.GenerateResource.Cache

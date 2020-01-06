@@ -1,0 +1,12 @@
+C:\Coding Stuff\C# Projects\Newer Warlord\New Warlord\New Warlord\obj\Debug\New Warlord.exe
+C:\Coding Stuff\C# Projects\Newer Warlord\New Warlord\New Warlord\obj\Debug\New Warlord.pdb
+C:\Coding Stuff\C# Projects\Newer Warlord\New Warlord\New Warlord\bin\Debug\New Warlord.exe
+C:\Coding Stuff\C# Projects\Newer Warlord\New Warlord\New Warlord\bin\Debug\New Warlord.pdb
+C:\Coding Stuff\C# Projects\Newer Warlord\New Warlord\New Warlord\obj\Debug\ResolveAssemblyReference.cache
+C:\Coding Stuff\C# Projects\Newer Warlord\New Warlord\New Warlord\obj\Debug\Warlord.FrmMain.resources
+C:\Coding Stuff\C# Projects\Newer Warlord\New Warlord\New Warlord\obj\Debug\Warlord.Properties.Resources.resources
+C:\Coding Stuff\C# Projects\Newer Warlord\New Warlord\New Warlord\obj\Debug\New Warlord.csproj.GenerateResource.Cache
+C:\Users\Moogly\Documents\Jeax\Stuff\C# Projects\Newer Warlord\New Warlord\New Warlord\obj\Debug\New Warlord.exe
+C:\Users\Moogly\Documents\Jeax\Stuff\C# Projects\Newer Warlord\New Warlord\New Warlord\obj\Debug\New Warlord.pdb
+C:\Documents and Settings\Administrator\Desktop\New Folder\Sauces\JEAX\Newer Warlord\New Warlord\New Warlord\obj\Debug\New Warlord.exe
+C:\Documents and Settings\Administrator\Desktop\New Folder\Sauces\JEAX\Newer Warlord\New Warlord\New Warlord\obj\Debug\New Warlord.pdb
